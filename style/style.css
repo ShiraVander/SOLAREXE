@@ -19,7 +19,7 @@
     color: #ffffff;
 }
 .plashka1 {
-    background-image: url(../img/фон.jpg);
+    background-image: url(./img/фон.jpg);
     width: 1920px;
     height: 900px;
 }
@@ -55,7 +55,7 @@
     padding-top: 50px;
 }
 .button1 {
-    background-image: url(../img/кнопка.png);
+    background-image: url(./img/кнопка.png);
     width: 305px;
     height: 100px;
     background-color: #bbbbbb00;
@@ -63,7 +63,7 @@
 }
 button1:before {
     background-color: #bbbbbb00;
-    background-image: url(../img/кнопка2.png);
+    background-image: url(./img/кнопка2.png);
 }
 .plashka2 {
     display: flex;
